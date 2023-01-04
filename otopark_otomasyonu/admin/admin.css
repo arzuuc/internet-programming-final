@@ -1,0 +1,17 @@
+body{
+    background-image: url(/otopark_otomasyonu/img/resim.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+#container{
+    width: 500px;
+    margin-top: 300px;
+    opacity: 10;
+}
+body h1{
+    background-color: rgb(226, 239, 238);
+    color: blue;
+}
